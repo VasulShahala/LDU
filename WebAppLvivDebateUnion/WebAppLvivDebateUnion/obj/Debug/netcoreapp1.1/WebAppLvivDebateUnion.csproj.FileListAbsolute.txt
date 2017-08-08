@@ -1,0 +1,9 @@
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\WebAppLvivDebateUnion\WebAppLvivDebateUnion\bin\Debug\netcoreapp1.1\WebAppLvivDebateUnion.deps.json
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\WebAppLvivDebateUnion\WebAppLvivDebateUnion\bin\Debug\netcoreapp1.1\WebAppLvivDebateUnion.runtimeconfig.json
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\WebAppLvivDebateUnion\WebAppLvivDebateUnion\bin\Debug\netcoreapp1.1\WebAppLvivDebateUnion.runtimeconfig.dev.json
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\WebAppLvivDebateUnion\WebAppLvivDebateUnion\bin\Debug\netcoreapp1.1\WebAppLvivDebateUnion.dll
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\WebAppLvivDebateUnion\WebAppLvivDebateUnion\obj\Debug\netcoreapp1.1\WebAppLvivDebateUnion.csprojResolveAssemblyReference.cache
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\WebAppLvivDebateUnion\WebAppLvivDebateUnion\obj\Debug\netcoreapp1.1\WebAppLvivDebateUnion.AssemblyInfo.cs
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\WebAppLvivDebateUnion\WebAppLvivDebateUnion\bin\Debug\netcoreapp1.1\WebAppLvivDebateUnion.pdb
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\WebAppLvivDebateUnion\WebAppLvivDebateUnion\obj\Debug\netcoreapp1.1\WebAppLvivDebateUnion.dll
+C:\Users\DR.HOUSE\documents\visual studio 2017\Projects\WebAppLvivDebateUnion\WebAppLvivDebateUnion\obj\Debug\netcoreapp1.1\WebAppLvivDebateUnion.pdb
